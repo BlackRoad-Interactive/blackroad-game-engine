@@ -1,5 +1,13 @@
 # blackroad-game-engine
 
+> Entity-Component-System game engine with ASCII terminal renderer
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Interactive](https://github.com/BlackRoad-Interactive)
+
+---
+
+# blackroad-game-engine
+
 > Entity-Component-System game engine with ASCII terminal renderer and SQLite persistence.
 
 Part of **BlackRoad-Interactive** — production game and graphics infrastructure.
